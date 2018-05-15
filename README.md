@@ -11,6 +11,6 @@ a game that detect car  relative velocity and  relative distance
 
 4. 不同噪声程度的滤波，小波滤波尝试。
 
-5. 其他尝试：canny边缘检测，KCF做跟踪，kalman做滤波。
+5. 其他尝试：canny边缘检测，KCF做跟踪，kalman做滤波。detection deploy的代码。相机投影坐标转换的代码。视频转图片/图片转视频
 
 6. 其他工具：coco转pascon_voc格式，json可视化

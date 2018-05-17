@@ -18,3 +18,5 @@ a game that detect car  relative velocity and  relative distance
 7. 训练数据的多少影响精度。
 
 8. 特殊情况的判断才是比较大的bias的产生原因。
+
+9. 复杂场景的判断，多元信息的融合
